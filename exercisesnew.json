@@ -868,7 +868,7 @@
     },                                                                                                                                                      
     {                                                                                                                                                       
       "name": "Suitcase Carry",                                                                                                                             
-      "targetMuscles": "core",                                                                                                                              
+      "targetMuscles": ["core"],                                                                                                                              
       "primaryMovementPattern": "Carry/Loaded Carry",                                                                                                       
       "bodyParts": ["core", "obliques", "rectus abdominis"],  
       "equipment": ["Dumbbell", "Kettlebell"],                                                                                                              
